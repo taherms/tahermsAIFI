@@ -1,0 +1,9 @@
+.striked{
+	text-decoration: line-through;
+}
+.addTask{
+	width:30% !important;
+}
+.paddings{
+	padding:5px;
+}
